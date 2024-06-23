@@ -1,5 +1,5 @@
 # CODSOFT
-1) TASK 1 : CALCULATOR
+1) TASK 2 : CALCULATOR
 
 This is a simple command-line calculator program written in Python. It performs basic arithmetic operations including addition, subtraction, multiplication, and division. The program continuously prompts the user to select an operation and enter two numbers, then displays the result. It also handles invalid inputs gracefully.
 
@@ -24,3 +24,5 @@ HOW TO USE :
 -View the result of the operation.
 
 -Repeat steps 2-4 or exit by choosing option 5.
+
+![task 3](https://github.com/Devika214/CODSOFT/assets/159278259/cf77fcfe-3028-440d-bc1a-376db981c9d6)
