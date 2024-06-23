@@ -25,4 +25,4 @@ HOW TO USE :
 
 -Repeat steps 2-4 or exit by choosing option 5.
 
-![task 3](https://github.com/Devika214/CODSOFT/assets/159278259/cf77fcfe-3028-440d-bc1a-376db981c9d6)
+
