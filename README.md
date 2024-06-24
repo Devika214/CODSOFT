@@ -24,5 +24,25 @@ HOW TO USE :
 -View the result of the operation.
 
 -Repeat steps 2-4 or exit by choosing option 5.
+_____________________________________________________________________________________________________________________________________________________
+2)TASK 2 : TO-DO LIST APPLICATION
+
+A simple To-Do List application built with Python and Tkinter. This app allows users to manage tasks efficiently with features like adding, marking complete, deleting, and clearing tasks. Tasks are saved to a file and reloaded upon restarting the app.
+
+Features:
+
+Add Task: Add new tasks to the list.
+
+Mark Complete: Mark tasks as complete.
+
+Delete Task: Remove selected tasks.
+
+Clear All Tasks: Clear all tasks with a confirmation prompt.
+
+Persistent Storage: Tasks are saved in tasks.txt.
+
+![TASK2](https://github.com/Devika214/CODSOFT/assets/159278259/4524aa89-2504-40a2-bf8d-eeef9b7ff89e)
+
+____________________________________________________________________________________________________________________________________________________
 
 
