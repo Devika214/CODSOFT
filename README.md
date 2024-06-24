@@ -45,9 +45,11 @@ Persistent Storage: Tasks are saved in tasks.txt.
 
 ____________________________________________________________________________________________________________________________________________________
 3)TASK 3 : PASSWORD GENERATOR
+
 This project implements a graphical user interface (GUI) for generating random passwords based on user preferences. 
 
-Key Features:
+KEY FEATURES:
+
 -Customizable Password Length: Set the desired length for the generated password.
 
 -Character Set Selection: Choose which character types to include in the password (uppercase, lowercase, digits, punctuation).
@@ -56,7 +58,8 @@ Key Features:
 
 -Result Display: Securely displays the generated password within the interface.
 
-Usage:
+USAGE:
+
 -Specify the desired password length.
 
 -Select the character sets to include in the password.
