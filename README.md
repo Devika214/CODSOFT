@@ -44,5 +44,28 @@ Persistent Storage: Tasks are saved in tasks.txt.
 ![TASK2](https://github.com/Devika214/CODSOFT/assets/159278259/4524aa89-2504-40a2-bf8d-eeef9b7ff89e)
 
 ____________________________________________________________________________________________________________________________________________________
+3)TASK 3 : PASSWORD GENERATOR
+This project implements a graphical user interface (GUI) for generating random passwords based on user preferences. 
+
+Key Features:
+-Customizable Password Length: Set the desired length for the generated password.
+
+-Character Set Selection: Choose which character types to include in the password (uppercase, lowercase, digits, punctuation).
+
+-Generate Password Button: Generates a random password based on selected options.
+
+-Result Display: Securely displays the generated password within the interface.
+
+Usage:
+-Specify the desired password length.
+
+-Select the character sets to include in the password.
+
+-Click "Generate Password" to create a random password.
+
+-Use the displayed password for your needs.
+
+![image](https://github.com/Devika214/CODSOFT/assets/159278259/9aeb758d-4eb0-4d92-ac94-1d170f7ee0d0)
+
 
 
