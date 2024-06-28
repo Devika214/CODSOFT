@@ -75,17 +75,17 @@ ________________________________________________________________________________
 
 This Python code creates a graphical user interface (GUI) for a Rock-Paper-Scissors game using the Tkinter library.
 
-FUNCTIONALITY :
+FEATURES :
 
--The game allows a user to choose between "rock," "paper," or "scissors" by clicking buttons.
+-Interactive GUI with Tkinter for user-friendly gameplay.
 
--The computer randomly selects its choice.
+-Animated computer choice for an engaging experience.
 
--The game determines the winner based on the choices and updates the score accordingly.
+-Dynamic score tracking for user, computer, and tie outcomes.
 
--An animation simulates the computer's choice being made.
+-Intuitive button-based interface for easy user interaction.
 
-Overall, the code sets up a simple and interactive Rock-Paper-Scissors game with an engaging user interface.
+-Clean, visually appealing design with custom styles and layout.
 
-![T4](https://github.com/Devika214/CODSOFT/assets/159278259/d87fd0f9-020d-499b-b07c-21cca02b8354)
+![image](https://github.com/Devika214/CODSOFT/assets/159278259/c12dd5d1-7c80-4176-a229-e1efae63eda4)
 
