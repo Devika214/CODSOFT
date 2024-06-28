@@ -14,7 +14,7 @@ def determine_winner(user_choice, computer_choice):
         return "Computer wins!"
 
 def user_choice_handler(choice):
-    global user_score, computer_score
+    global user_score, computer_score, tie_score
     computer_choice = random.choice(choices)
     result = determine_winner(choice, computer_choice)
     result_label.config(text=f"Computer chose: {computer_choice}\n{result}", fg="#f0f0f0")
@@ -22,6 +22,8 @@ def user_choice_handler(choice):
         user_score += 1
     elif result == "Computer wins!":
         computer_score += 1
+    else:
+        tie_score += 1
     update_score_labels()
     animate_computer_choice(computer_choice)
 
@@ -35,10 +37,12 @@ def animate_computer_choice(computer_choice):
 def update_score_labels():
     user_score_label.config(text=f"Your score: {user_score}", fg="#f0f0f0")
     computer_score_label.config(text=f"Computer score: {computer_score}", fg="#f0f0f0")
+    tie_score_label.config(text=f"Ties: {tie_score}", fg="#f0f0f0")
 
 choices = ["rock", "paper", "scissors"]
 user_score = 0
 computer_score = 0
+tie_score = 0
 
 root = tk.Tk()
 root.title("Rock-Paper-Scissors Game")
@@ -82,5 +86,8 @@ user_score_label.grid(row=0, column=0, padx=10)
 
 computer_score_label = tk.Label(score_frame, text=f"Computer score: {computer_score}", font=("Arial", 14), bg="#333", fg="#f0f0f0")
 computer_score_label.grid(row=0, column=1, padx=10)
+
+tie_score_label = tk.Label(score_frame, text=f"Ties: {tie_score}", font=("Arial", 14), bg="#333", fg="#f0f0f0")
+tie_score_label.grid(row=0, column=2, padx=10)
 
 root.mainloop()
