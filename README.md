@@ -31,15 +31,15 @@ A simple **TO-DO LIST APPLICATION** built with Python and Tkinter. This app allo
 
 Features:
 
-Add Task: Add new tasks to the list.
+- Add Task: Add new tasks to the list.
 
-Mark Complete: Mark tasks as complete.
+- Mark Complete: Mark tasks as complete.
 
-Delete Task: Remove selected tasks.
+- Delete Task: Remove selected tasks.
 
-Clear All Tasks: Clear all tasks with a confirmation prompt.
+- Clear All Tasks: Clear all tasks with a confirmation prompt.
 
-Persistent Storage: Tasks are saved in tasks.txt.
+- Persistent Storage: Tasks are saved in tasks.txt.
 
 ![TASK2](https://github.com/Devika214/CODSOFT/assets/159278259/4524aa89-2504-40a2-bf8d-eeef9b7ff89e)
 
