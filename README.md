@@ -105,4 +105,5 @@ FEATURES :
 - Error Handling : Alerts users to database issues.
 
 - Responsive Design : Organizes elements for usability.
+- 
 ![image](https://github.com/Devika214/CODSOFT/assets/159278259/540424eb-1181-4cf2-86a9-0cc059e98fde)
